@@ -1,4 +1,4 @@
-# Bank_App
+# Online hackathon Bank_App
 Task
 Create a prototype of a banking application that has four functions:
 
